@@ -1,0 +1,8 @@
+body{
+    background-image: url(../images/global_south_africa_farmer_field.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    font-size: 30px;
+    opacity: 1.0;
+}
